@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-  <a href="https://app.daily.dev/nataliacfavero"><img src="https://api.daily.dev/devcards/9a9b039a2b3d4a89ac79883baf36891e.png?r=tok" width="400" alt="Natalia's Dev Card"/></a>
+  <a href="https://app.daily.dev/nataliacfavero"><img src="https://github.com/NataliaCFavero/nataliacfavero/blob/master/devcard.svg" width="400" alt="Natalia's Dev Card"/></a>
 
 - 🔭 I’m currently working on AWS
 - 🌱 I’m currently learning System Designs
