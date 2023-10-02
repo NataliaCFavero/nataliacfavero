@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate with people who are starting their careers in the software development area
 - 🤔 I’m looking for help with Mobile Security
 - 💬 Ask me about Aws Services
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natalia-colantonio-favero/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love playing volleyball
   
